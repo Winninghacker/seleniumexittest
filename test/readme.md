@@ -1,20 +1,20 @@
-ABOUT PROJECT
+# ABOUT PROJECT
 websit:https://flipkart.com
-Technologies/tools/frameworks/libraries-
+# Technologies/tools/frameworks/libraries-
 Java
 Selenium
 maven
 testng
-Modes
+# Modes
 Headless:
 	To run tests in headless mode, change mode = headless in config.properties
 Non-Headless:
 	To run tests in non-headless mode, change mode = non-headless in config.properties
-How to run
+# How to run
 •	Clone repo from the github link
 •	gitHub link :- https://github.com/Winninghacker/seleniumexittest.git 
 •	run RunAssignment.bat
-Important Note
+# Important Note
 To change browser - change the browser in Resources/config.properties
 Important Directory
 •	Drivers : .drivers/
